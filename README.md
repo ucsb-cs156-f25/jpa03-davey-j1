@@ -1,4 +1,4 @@
-# jpa03-davey-j1
+# STARTER-jpa03
 
 Running at: <https://jpa03-davey-j1.dokku-04.cs.ucsb.edu>
 
